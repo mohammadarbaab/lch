@@ -1,0 +1,8 @@
+{
+    "execMap": {
+      "js": "node --loader ts-node/esm"
+    },
+    "watch": ["server.js", "lch_backend/**/*.js"],
+    "ext": "js"
+  }
+  
