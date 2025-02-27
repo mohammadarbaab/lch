@@ -1,3 +1,12 @@
+{
+    "execMap": {
+      "js": "node --loader ts-node/esm"
+    },
+    "watch": ["server.js", "lch_backend/**/*.js"],
+    "ext": "js"
+  }
+  
+ 
 
     "react-router-dom": "^7.1.1",
  
